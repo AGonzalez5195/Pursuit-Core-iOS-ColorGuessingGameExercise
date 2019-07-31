@@ -1,9 +1,9 @@
 //
 //  AppDelegate.swift
-//  colorGuessingGame
+//  ColorGuess
 //
-//  Created by C4Q  on 10/16/17.
-//  Copyright © 2017 C4Q . All rights reserved.
+//  Created by Anthony Gonzalez on 7/30/19.
+//  Copyright © 2019 Anthony Gonzalez. All rights reserved.
 //
 
 import UIKit
@@ -14,7 +14,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     var window: UIWindow?
 
 
-    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
+    func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
     }
